@@ -1,0 +1,57 @@
+.btn{
+    border-radius: 2em;
+    background-color: darkred;
+    color: white;
+    width: 25%;
+    height: 50px;
+margin-left: 5px;
+font-size: 20px;
+}
+
+.ebtn{
+    border-radius: 2em;
+    background-color: teal;
+    color: white;
+    width: 25%;
+    height: 50px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.l{
+    /* background-color: violet; */
+    font-size: 40px;
+}
+
+body{
+
+    background-image: url('img/bg.jpg');
+background-size: cover;
+background-attachment: fixed;
+  
+text-align: center;
+}
+
+.dltall{
+    color:white;
+    border-radius: 1em;
+    background-color: green;
+    font-size: 17px;
+    font-weight: bold;
+    width: 80px;
+    height: 70px;
+
+}
+.addbtn{
+    border-radius: 1em;
+    background-color: tomato;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    width: 70px;
+    height: 70px;
+}
+.inpt{
+    width: 30%;
+    height: 50px;
+    font-size: 30px;
+}
